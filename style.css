@@ -202,7 +202,7 @@ nav ul {
   background: #000106 url(circle-loader-gif-2.gif) no-repeat center center;
   background-size: 15%;
   position: fixed;
-  z-index: 100;
+  z-index: 10000000000000000000000000000000000000000000000000000000000;
 }
 
 /* responsive display */
